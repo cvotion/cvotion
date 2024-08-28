@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- I’m currently a student at DigitalCrafts working towards a certificate in software engineering<br>Prior to being a software engineer, I worked as a Senior Enterprise Fraud Analyst at a credit union where I would analyze debit card fraud trends and develop fraud rules to mitigate losses to the credit union and its membership.
+- Currently working as a fraud strategy analyst<br>I have also worked as a lead intern at Seminaut inc.
 - How to reach me: christianvotion@gmail.com | christianvotion.com
 - Pronouns: He/Him<br>
 
